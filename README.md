@@ -2,6 +2,10 @@
 
 The Configurable Error Report provides an alternative to the out of the box [`ErrorReport`](https://coveo.github.io/search-ui/components/errorreport.html) component to permit the use of custom titles or HTML on the error message in the place of the defaults that come with the JSUI framework.
 
+The component has two options:
+- defaultErrorTitle: Determines the title of the report
+- defaultHelpSuggestion: Determines the message of the main report
+
 Disclaimer: This component was built by the community at large and is not an official Coveo JSUI Component. Use this component at your own risk.
 
 ## Getting Started
